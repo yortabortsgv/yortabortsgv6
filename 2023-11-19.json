@@ -1,0 +1,26 @@
+{
+  "name": "Bertha Sandoval",
+  "age": 35,
+  "address": {
+    "street": "Puga Manor",
+    "city": "Madtizem",
+    "state": "NC",
+    "zip": "05809"
+  },
+  "contact": {
+    "phone": "(878) 321-1173",
+    "servicePhone": "800687137"
+  },
+  "birthday": "1994-01-30T01:52:00.786Z",
+  "ip": "109.126.246.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Afope odkub urmijiz epa he te fo uw vu aggiza taz fibhacju mib mu. Ra ec zuv ace betuzet apje ka togige isokeg nifeco nasu jodut. Kupew muhim magujbap re pihwaas cunos niwoh bawsiwos buskek gehuj give buf ret guera.",
+    "bio": "Lob mebpuswip capvaili zosluz pempigul ha se fab dac ga ke kawmubjit kirud raswatic. Duh cojeku jogvuh ew bedjoc lahjut netgiv ijzividu wavpopum men icovovez wepo lakzacofe silimale niv kit. Kal ir su wanjuz umokamdez gitfakhuh kileduagi ca zeelno vi ohlikgon kaludu pazru isdusa wih. Octugej me pip ucvov ijsin piboaku alpecaz donios nujedli igi kuvbeje wupju homen."
+  },
+  "apiKey": "330f0a5d6b0a9ed0a286747dbb50d1a805335186c4cdf0807859faa7011fb5bf",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
