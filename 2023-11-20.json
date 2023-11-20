@@ -1,0 +1,26 @@
+{
+  "name": "George Fisher",
+  "age": 24,
+  "address": {
+    "street": "Awla Trail",
+    "city": "Ijiparap",
+    "state": "NM",
+    "zip": "43173"
+  },
+  "contact": {
+    "phone": "(656) 814-1368",
+    "servicePhone": "800232659"
+  },
+  "birthday": "1982-07-26T12:22:51.145Z",
+  "ip": "142.253.18.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Vizamil kevale sez eh wuwru zo nemtes ruszodid gipoz kul lo vicgovaw vidazni ziphape ana. Ci geto le tajomaro gigzijik jeuli ipbazihe gew nape jazcum jubemuke dadev. Cidimnow wi li pim ihzuzef vu daaphev awotugef me nabekupob so bom hojeol bewlu na lolurre. Atafamam wahuke rohozgar uguipvid pul cesawpe obegukur opwok esi emionsu mar haz do.",
+    "bio": "Tisumaj boicage us najakdif suk senkocan te ozazta dotawkow pow su zibe eca zi nozhug. Maj gohbe eltuva jipug hucjaktel wagbu valdizod lemaumi kebe fofcuur mevfij fekji rumsirare. Ipulib zuvsiric iw zesujfut wokudas re muuc ut tijubihi nifoziv volesbo jodi ivce ivaki dajotoju hussin waare ofi."
+  },
+  "apiKey": "fdfddfe9011ff04581234ed0dc3e55f772ee890d3459d09650551b326185b544",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
