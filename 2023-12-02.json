@@ -1,0 +1,26 @@
+{
+  "name": "Cora Harris",
+  "age": 40,
+  "address": {
+    "street": "Rojen Boulevard",
+    "city": "Nagegma",
+    "state": "FL",
+    "zip": "15214"
+  },
+  "contact": {
+    "phone": "(567) 848-6232",
+    "servicePhone": "800913614"
+  },
+  "birthday": "1992-04-21T19:53:54.316Z",
+  "ip": "13.72.141.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Ow mahasi feuno zaebepo jilmirjaj mamnogmus nunitti lala gewbosfi iwe dupwekme ohguv lutacmac se. Ki lehnalev mijew nohe nosdezuz hate fuhdi zipe zogdi pal dosik va hocolav zo hochod uwtodne ucvav kobraiho. Rejajan rigi ectofa ri botokaj na hobmozjat fifebuwa ohodaum amifo sa bo wekupeg ce gombevwec hargigop nahlitmuw kabef. Netafhow depip isjuj afmem gek vejhojor hipkiek se tu ves vosavu gi waz. Mujeko kezun ta cefit documa juahi muhalubu pocaduam va ataamga borubu ladutuj vi ozefawa lugjelaj dupebwub ejo.",
+    "bio": "Wab sorusbig us neltisvej ketuga da nozoviwu dejholo gekaus dezewce sahbo bel dakdav fugwetguc bele vehi hab zi. Mej gosarjo pompa paud hegap otdufu iliote uci lagpub miv age jamsip jo vaguho renfo coknit wogubjod jonnati. Rebi tenfuuge leslakko houkave ag uji pu awa je objopgos cicasod riefa sepweg jatdagnaz pofril wipilrag evu."
+  },
+  "apiKey": "84f9fefb1d545a0851301723844ad501d92da9e99edff25767349b1a9ef22f18",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
