@@ -1,0 +1,26 @@
+{
+  "name": "Gordon King",
+  "age": 27,
+  "address": {
+    "street": "Esipi Manor",
+    "city": "Ewcome",
+    "state": "IA",
+    "zip": "40422"
+  },
+  "contact": {
+    "phone": "(517) 527-2244",
+    "servicePhone": "800627277"
+  },
+  "birthday": "1963-07-17T01:35:56.070Z",
+  "ip": "118.214.198.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Ju elarsi zev zum ga ufakuhug soh se deocawu bomomdic jab sol. Me vafpo feslo vojnah nikodul jenafgu gasderda kuz emabektoz dugarpa fa lizopron. Weglahwam ja wighok heloiga zofu nom oc jumoko ko kuhebvo jacov seredate uzonimo.",
+    "bio": "Jil omupa faso feh aza kujeh iwonabi gi jagow japhin po ohiliwav renlidzes ede ug jefetiw ajhuzoh. Narpabsac re kiw wimfuw nemaoma utuaro ahna wapek cippekzu seewti ludir fos ec vavvewul lagato wije ulkabki. Fanmo mosimmu ma nizuldo un zep lo wu lanhepa bopacar zigolrep zordonu. Onlana gizpec lah sa turkezteh jeuz badit ok tazdo rijo zag viratpev tonen ceboku api. Su da hemde zu ur hufke kamiv ne vidlaafu olde maisucoj izafiw esovnek boenolud jic wudcaroh ogeme wezre."
+  },
+  "apiKey": "62985dd9cf36912de8ac710812900abe8fba26a1c0f9c4649c72920212d5c1e8",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
