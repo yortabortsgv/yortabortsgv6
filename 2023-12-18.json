@@ -1,0 +1,26 @@
+{
+  "name": "Hettie Parsons",
+  "age": 21,
+  "address": {
+    "street": "Zicsa Court",
+    "city": "Beogle",
+    "state": "MA",
+    "zip": "66254"
+  },
+  "contact": {
+    "phone": "(515) 652-4296",
+    "servicePhone": "800872993"
+  },
+  "birthday": "1977-07-04T01:24:35.484Z",
+  "ip": "60.224.160.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Hibuko peivu mejtafaz ahluj duwo co ofipoj re new eto nosu covwiil. We wimza asewo piwbe kujherko fu batro kiejju ebur wavlemhub er hi uhuoru ego mauzu. Ho ovetelak bislafade wetzi momifik vedi gog wu duriwdo dazapu efausiib ete utgur zo jisol.",
+    "bio": "Adewagif onejadfa avfed tu ho panpu te ga cegipa apoafaun da otifoh nof gifepid neku ica nahkes bijib. Hegus hojudup zozij sumoh tuilari bema uwa ur fu as nibim kebekciw kedwah. Jutdaoj etagi vat fouv ip gihdutvoz kivfi falfir hajeb laahekif hapejof wipirjek. Ji mechu tozelkuw efoso fohtangol rioda tipo behgal pushesmam ruzte okuizso isocer cew ap."
+  },
+  "apiKey": "71681b4ffbe31ffcebda969d4360a7c0d0ad98fa109e9ad0e944638ce9e63bdb",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
