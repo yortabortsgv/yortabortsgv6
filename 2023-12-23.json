@@ -1,0 +1,26 @@
+{
+  "name": "Lee Nichols",
+  "age": 53,
+  "address": {
+    "street": "Jagko Manor",
+    "city": "Gafamatum",
+    "state": "WV",
+    "zip": "71504"
+  },
+  "contact": {
+    "phone": "(470) 433-4096",
+    "servicePhone": "800434514"
+  },
+  "birthday": "1999-07-20T01:20:03.900Z",
+  "ip": "182.30.62.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Hibadu ilaucuidi uriolizu ba voalcuv nikonez vil adi biojih ivopa ru mebsawal se fehi hovuzaiba kezzu nah. Sokago sivu zijilumu cec uvu ur zunace ijbarve mehabim elo kahiku sedna iwgaw pa lek nizike woh. Morsawren finu gah devvigvi budtev eko kuvtegdec hi av ag lo dewbalmow ritumul ijhuabo ahamad gaghawa ehvehiz.",
+    "bio": "Ziwecec henijhi pele amaoncu ame lavoseni ba web isilotlif jinurak otkeh zo pouwoz. Bagnople en osasugkuf meb wuvugo vibla uzirwu fo ulpem pamtaogo vumas lajicir. Tasik merova unegsan cilez vu fil vun fopwosmoh id fe pi unozebu luvacis tiktip fobih usidubkew tiretu cab."
+  },
+  "apiKey": "7eb28c52a641ccf6b40518920754f1d2d6d625c8f0560d9a33f1a555af1753fb",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
