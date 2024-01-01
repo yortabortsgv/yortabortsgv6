@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Curry",
+  "age": 22,
+  "address": {
+    "street": "Gujo Square",
+    "city": "Vafujko",
+    "state": "FL",
+    "zip": "18694"
+  },
+  "contact": {
+    "phone": "(711) 297-1056",
+    "servicePhone": "800761162"
+  },
+  "birthday": "1987-09-29T05:45:30.743Z",
+  "ip": "60.52.131.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Tah focwufkaz iz tet tu ab decizvon vefuf gu romru zowivodo deja ofeepice nioba mo sozo. Var rof femodfub fovod ne waw ehaacupuf ba jerbodu kafak eponi al. Rorpeb ni ta vakgodu sukepci ashas camij bovkobbu ha kec cibejku hizzab wu. Ruwul supar epferja rehzumno je keavpu aronem peat olovef it unijachu fe nozij rokojioj.",
+    "bio": "Api ga evupa giolasa bibeg vat ka gac upogogo efojum fo jehiwowah za ireb juk. Noce huer oce sagmu lew devde kokebup nob jumidi zuew damlibdaj vizdi wujlunuje ruatu goric zim ki. Wegege ta awamev lep juetu jiltijis rulat gec cidihjo vevo kodiw iruuki. Huge has ziirida leobro iceconje boliz bufnot tuftilof olago go puz pip necujob welpedu un gidravo. Eruwawo polji igo owo lavfiftiv ebepa vovavu uwapar pinwopum fec vovid wuin utaliznud apo bad. Pe wighiga teege wepsup enunav pi wa lobwejvap ebug wa kipo owuruvu zuwo jo na ju conol. Nivewur lav ibusi go paifgu ez idu ivigodut joj dik fazen ev cooriaro um."
+  },
+  "apiKey": "a80e369ccc4cd00dca4c20bffe8152d69d2d27c767c7a73fd0e746079aefaa88",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
