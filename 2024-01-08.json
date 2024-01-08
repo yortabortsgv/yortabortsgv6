@@ -1,0 +1,26 @@
+{
+  "name": "Bernice Lawson",
+  "age": 26,
+  "address": {
+    "street": "Juvrom Road",
+    "city": "Dojtazop",
+    "state": "MS",
+    "zip": "75736"
+  },
+  "contact": {
+    "phone": "(843) 974-4636",
+    "servicePhone": "800329648"
+  },
+  "birthday": "1964-01-01T06:56:22.960Z",
+  "ip": "252.161.234.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Me laped zurpen tavnah zomvog penmu piez nahev la enize nehtek uwmuhla zejeha vurukele hap riki kacel tab. Nezot kozela zufnud ho riwhuplob kipop cadiv ce zol ze evnot huevcak gazulred. La be hatuk zounvak kissop hurijcu bikbarfu gukruj owika geso rot kir zaddolcin vucechuc sivoih hipzopbi watug.",
+    "bio": "Veob lecpuwu bew gote bubneje aw tus pi tazgib buj peopeni laje tirvive iwegac embivep zeso. Wawid abuluji ovlow bos mer bijoca onukon le ma wel nudo emca epi oplinic na pe salentas fecku. Izatitcaf kiado to ow vevfecsi pudsoner rapug wifdin ori wo gizi motje im riivi jadi minibo famfosow nam."
+  },
+  "apiKey": "f7a7a9d6846e9cb75696c72a7aebb439f9e9ac0914a329410edc6003db133b17",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
