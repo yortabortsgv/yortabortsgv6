@@ -1,0 +1,26 @@
+{
+  "name": "Hunter Byrd",
+  "age": 23,
+  "address": {
+    "street": "Kopez Way",
+    "city": "Novezu",
+    "state": "CT",
+    "zip": "56419"
+  },
+  "contact": {
+    "phone": "(957) 881-1012",
+    "servicePhone": "800794426"
+  },
+  "birthday": "1984-01-08T00:18:59.597Z",
+  "ip": "67.158.101.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Ej cukbug wumavo sirlum moggenov lu noc wuniw pis jilce buf icoakudu ata. Zackelun upufolef wehapus gizobud pojoame raara dozvaznas ludluje ahteme lumuf kadzarvuk nucte akihu beula dediviri ovhotab vajiz miplef. Owa hapuk ji goruazi sabuc uk bo mave fu lo perej ugiwuv. Atwadmef gip ofboc gaf farzuffos zojke afezda popoede kom sewoj he adefe rermu wuago nevgo zezegvet.",
+    "bio": "Voevgu fus goarnu fed niccuwer fu papaol pokogen opdib patrav sulupozow jikin pelwo bojuc usepudbu ollepi. Dafliah lu ubamu gu anulireb ojipikug bo vefwar cataclip il navjuze hahahmup kewecaeto. Citte akiuf teltopdi ic dusfek buh karjizci pogdow dop neppo sovvavub unizvo. Ekorak lozo hiko no mur gipo asje se ew suh ta de. Bet pacbi jisfa za haku rosofvi oca cikuva ub cadwiuc cajizu oc fawubab ijcumeb cohem sakuga. Sacueti erfusat doal zoho zivihnoc pavjituz lahi tur vegar jeajsig ne vujfaira setger kofike muleuc aguriaso zavwirti giduod."
+  },
+  "apiKey": "10bf1a7248620c269586a47cd7b409693c758aae50ff3e63e666aacc1f135fdb",
+  "currency": {
+    "code": "ALL",
+    "name": "Albania Lek"
+  }
+}
