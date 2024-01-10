@@ -1,0 +1,26 @@
+{
+  "name": "Rosetta George",
+  "age": 20,
+  "address": {
+    "street": "Ribwu Loop",
+    "city": "Hobatebi",
+    "state": "ME",
+    "zip": "61734"
+  },
+  "contact": {
+    "phone": "(530) 580-8434",
+    "servicePhone": "800655512"
+  },
+  "birthday": "1977-04-28T23:49:27.772Z",
+  "ip": "72.180.140.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Mujwolohi sa gicetim ofiejouka jozogwu podfuso zolnicwut wa sal napkovhib femorjo wu wupvir. Pewwoeru rijzo vel gan motni zacehe fodu rakok marum idtic loawi ir jevur wejir. Gez te awtugi besvuvju fohaofa fuh bih cemda panepda del rol ofe uwubemdi.",
+    "bio": "Il towi utimiwuz worowituw tahes wakjuju ciruw lavif sa wakvedfo piwzopruz za nucta za abaros. Cikmun vawsoc fu jek owbik ja evob wef befu ses ma vemika nib ci ubdef lenib ja. Sutor obi ziz wi kilcugmik buh kir seb nurjibpah omnug zecatcu rokcip duzjincek. Fecdimduc unusiru atojet jekogvu fosdeem ju vewur dumak azage wacufif lisfo gaaga zaw pejni pakhuf ku. Zeslosri asazad sen lehciz bozfo di igojo zuti uvvi ugjos rukuzroh seursoz fokas pem vew ar ja fe. Jiidlin wisi onese pipafu bokludgiz laaw buhcetu toc ojoig ju cudfi bucokkir jomriza vu ezri. Etiut kupog ped heolin du goukiowe fu ri abi naig is kofaw uk uzvaow."
+  },
+  "apiKey": "a89b5133966a7d4d9e761e255ad56db0f997a6d15d5ec42d900026494934a64d",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
