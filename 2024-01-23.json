@@ -1,0 +1,26 @@
+{
+  "name": "Sue Wong",
+  "age": 42,
+  "address": {
+    "street": "Pire Junction",
+    "city": "Awbodu",
+    "state": "NC",
+    "zip": "44273"
+  },
+  "contact": {
+    "phone": "(466) 492-2775",
+    "servicePhone": "800772134"
+  },
+  "birthday": "1999-11-08T21:22:01.999Z",
+  "ip": "123.82.220.196",
+  "foo": "bar",
+  "profile": {
+    "about": "In donca weshatce vav fa ri nahu er met ijwikur wo jofsajib. Fomgi lucnusrob jesumko linbafsu ru apki ci capehi jihpoija ococofcaf wic pa. Doblaaz fa faf we dacwomi oggari febwir pu ho avoalene pawuv ceswoj. Jobna saez paota zetuzud zosughef lozi lawfip jefindu dureila jul lo uniwow um towursi tupfu.",
+    "bio": "Entoj kogucu maklaewo sakze guhuvjug dambocdog ra sadheufa tab ocema da solu zufwi il otdij magutmoh. Mic fod eca nog bajos tot lute hizu rop fetmikeci he zi. Gi seolo un negi fukijij zumu ki sat vodbof jijrutow poruwid sihvo fapzasuk gumgupfuj marahi. Bu dojuci opa fahku fosaroje likuv afwagud reglivsij socokpo samdiuz gisejut fuvumbo fizeeb."
+  },
+  "apiKey": "ec6e46a59b74deeee2b5375648461d0df4ffadac17fff97bf03f4fb9675d98ce",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
