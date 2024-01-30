@@ -1,0 +1,26 @@
+{
+  "name": "Jon Bradley",
+  "age": 41,
+  "address": {
+    "street": "Rofehi River",
+    "city": "Oniereuce",
+    "state": "ID",
+    "zip": "80402"
+  },
+  "contact": {
+    "phone": "(232) 481-5781",
+    "servicePhone": "800442664"
+  },
+  "birthday": "1987-06-17T06:38:10.543Z",
+  "ip": "251.193.99.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Cohus gohutwam re moh ibeupgi tozgukka utu gog pitzaej fipihide gu gufnibwuk. Denemi irifautu zo bo apul bakidfij er nuruc sedik cudpeko huj ranuwlip faibma cizowevaj hefseduh nivodjek. Kecnem todu hicibo cosahu hir pubecsar necjale kotuhzah de it tip lu. Mu vi ve omasiolu bulir sookesab imewlod zumci rimcug vacsas wo dupewa gu usu mal. Maice faobunuf le nenuho ijzas luw poppofra besoj vac fotovuki wal mufkihil erakra uh lu zusi hoje. Vafge nalujlor fuhpeew evi jac geuwfev zozuwe vagah kem fewsiv jubimwed aku.",
+    "bio": "Ozube rozippos wopop jojbokpa zaijfim git babfebwu haf heciiw ula kadzif witman coawfib bivhullaf hecvaj hucfoh ij. Hohjujbo he cehwe utubi wim zi zufse seso rojif aliop buju fi voh aljak weppi sin da fehzaju. Esuezu ipapitu us udgoen maivu me uda ra idze igi juwtu po fofil ajije."
+  },
+  "apiKey": "e161264df6d0323ce1f3813edaf6ed7d680f41d7c4bc43cdd783d38a87223bcf",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
