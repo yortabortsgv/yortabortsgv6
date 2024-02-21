@@ -1,0 +1,26 @@
+{
+  "name": "Lizzie Harrington",
+  "age": 26,
+  "address": {
+    "street": "Ijbak Pass",
+    "city": "Terewap",
+    "state": "UT",
+    "zip": "87510"
+  },
+  "contact": {
+    "phone": "(239) 738-1051",
+    "servicePhone": "800887746"
+  },
+  "birthday": "2004-08-21T05:33:00.918Z",
+  "ip": "145.56.180.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Waz lazamcu epucakeg mip ima bavidsik ikfo wuviaba tub rafeg ibo ipiz loro molzuz sacipaf iwa. Li wum vukizaw iraawdoc wasol dosin vesiri vubcug jigubkum vajapaho ruref kah suutbo lidme kih. Ozu vo sar jovkumu etu tuwdieh fivo odigoko eti dud zajfug fid keureuna kijda. Fa decavo ci uk je horofte difgu wumrabaz egasocez si he viwaha pecmes.",
+    "bio": "Meklaczo kimhuw gaejaeco mi folwo emeamave uju dajtip joizouz tombon bug ero dac momam gu so. Ewoguju ugokzu vegcuv pa piedu gi vofojadum uhuuh agolada no ekga senmuf ta vo. Huhacfe fe zuvumvor ahoefeuse vot opi isaapo mo cihacris nenfu wo inuipa begekse pinkadi bi. Kujge po gupap aco ezucoh go ripuf pojgasob he mabo bu doh logmipgiw nagatur wilkotfa ajmo va pobulnus. Na ojuvo bolih idocivmo noka bokdiz datiher zisekto nopfev enra econad za suovece dahok kuepo rozfodu beoz."
+  },
+  "apiKey": "0f4c40a39d67bd7c847eee5f8d081a2f9a012e11bfe73a5bb84748988e49c91b",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
