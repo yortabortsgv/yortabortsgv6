@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Burton",
+  "age": 25,
+  "address": {
+    "street": "Sejlok Loop",
+    "city": "Acbomoh",
+    "state": "TX",
+    "zip": "52080"
+  },
+  "contact": {
+    "phone": "(434) 450-4946",
+    "servicePhone": "800344318"
+  },
+  "birthday": "1997-06-23T22:50:12.743Z",
+  "ip": "124.229.47.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Puhtikta sejomgon ta va veelamak aha ze lalew jossugni woidajac sovzin ac. Zonam ti duive puobot kaduc wec as tito jizke rafbibek fagro ufimovjon. Lecwo juvakpo raw kodbu mosju ar go likme nuvi upa kit pa. Akna evukor mobgelote jodwed vibwub de gebel ijed wi ufi zodro viwub gi oboeci fasgu. Lofwan afusaag muw rupid tofkewew epaocapi pulni mebsid ripbak ka nerbe besfa jaki fu kevgam kuuvgo ga. Erdaptav vuljacaw bag ulaco otnuciv va enko digetujil memolihe sera kikrew bidi ufmu few ectof koscoc.",
+    "bio": "Ag he refda onawsam jabulo oh da ickegwez zoj pel taik pa habned. Jikloawo lirlaubo mak ezokicel ber maru da cecaczum rewkisi hul zoric saje kekinaw. Gapula joup porji zori kovhati cipafu puahenol warmino soopa wujpup sebuma wonu towada razjunoj ru tukgo nefzaz. Cephu jiosma kuvgirrid nilnanhug newelmog gu bujafupul zi doznit jojokih ardum pani."
+  },
+  "apiKey": "bbd46b99a5dfb3c3559b4191e767c578ace65421e91b4aaa560fc71be083e125",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
