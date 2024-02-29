@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Ross",
+  "age": 32,
+  "address": {
+    "street": "Lavram Trail",
+    "city": "Suwmarug",
+    "state": "PA",
+    "zip": "24769"
+  },
+  "contact": {
+    "phone": "(573) 277-4610",
+    "servicePhone": "800148888"
+  },
+  "birthday": "1987-05-09T01:06:21.121Z",
+  "ip": "162.249.203.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Ficzid inub eswov zo bojonuc ez da on sujzokrom ezeparzup popohbew huboz ve arhed runetfi sutsih ar wepromfep. Ze inami ob wujkal dower pefied zazlume tug ti zombin berukwu cem gevkilzat noc ro. Vuf cinuc wiri nazjok varfumzap jiksuwgo ala ezeov icidu fapi akimuhnof fij zuricfe lu ofopawse iluwu bamal sacbi. Lobe koplul jisuno tabe zuw rok feic ura wukje hir mu de dugu. Peire ripobhu abietri duzta iwi uguhedar mofewges roc ehkibu nivelpe vet serse mag sosigiefa fob ho hiobeug. En tabu ferujho saromkeb catizut wuvcawgap upgipej tem vebnu zese jenof iwfaij.",
+    "bio": "Citus secbiwemu ez mannoh adabiwa vitpiv fe nej vi ram igu do. Izi efa coz dip nuzman komu itdoj wiw neiz onfavu opnolliw rukodre imlic moncon atsifun. Us duus pibfuh rakopu cu zeeve wutev junajhu ah as cajirmep renpeljej zuz daviz pejis pimmetic pel. De wede ijjucul ji mus lummu ag wafiet lewcalop egu paci god cud mac ipuba opiobouzo kol ukeuwbem. Zontuweg uwu pe tek ezowoh fegkegok ebniw umuf urumutkop ulle genvot rebapvow moctopek fi. Nut eza lol ce jaed wohaju itula kuz lu pacben vekvar bi wu. Ibvewu itahevaj gi reegce ruhgev ozniret dof ofaloksa nenem korirbe juvtieze za onu."
+  },
+  "apiKey": "8fbf8d8b5bb74c32e11603011cbdb61577f0792f9705cda30c1776629d27b1dd",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
