@@ -1,0 +1,26 @@
+{
+  "name": "Sam Cross",
+  "age": 42,
+  "address": {
+    "street": "Name Highway",
+    "city": "Fumwidfe",
+    "state": "SD",
+    "zip": "82471"
+  },
+  "contact": {
+    "phone": "(625) 723-6444",
+    "servicePhone": "800848286"
+  },
+  "birthday": "1988-10-17T14:11:09.522Z",
+  "ip": "41.118.122.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Pa ovela elupi warev kuflada bobbek rehval potgab lic merobpu imeupiju dag fefa enaogta kisled gaj. Rec anaku disodoewe kumak av idemizud ki cu diwomup ceh go jor defpunhuv daij fiwiviti iwura jefen. Zajesvo vodejteb nip ru otba ejire wum dawkecfuf epu uwkudpu huf epetus utoaronup zajicanih huj izo. Ku guhobto regag bud woelfez uhwe tuh kamim hilaun usfijmav peze ma ubiveona zeoda pemgufus. Hivin buncap wedu gi za nies nak vi jecfot ri kuubgi tojuici biredo tidwuzdo. Mauco ujo cotnapwus we tercudu wur isa kican idwisim siozro pu rourovet he pajamigu ehwin dezjov zefek si. Gopemolon wipodeif kejwet biksipo sohiimo lenfilup owemo bafuara fuw fefik ralkak rise.",
+    "bio": "Tetad ja guwo toc wepewe huz cema azgit jep ca fagoeje ladu emi pu miwek. Zoprezoha feg odorebog aj jalze pir bez an soriz upoha bukumfof oheli et asdoat. Tizeb covobbu bamieb dizilicav tiw lonpopej ni tapwo evbi ne cis acaenegap fusgi beoha."
+  },
+  "apiKey": "c03d45aabb48f6967a00f035dd02217b4d7f6b8d5a732c581ffff75c67f26256",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
